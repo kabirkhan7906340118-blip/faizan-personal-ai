@@ -1,0 +1,12 @@
+{
+  "name": "faizan-personal-ai",
+  "version": "1.0.0",
+  "description": "Faizan Personal AI WhatsApp Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
